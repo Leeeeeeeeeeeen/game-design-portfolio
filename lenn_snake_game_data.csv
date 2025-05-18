@@ -1,0 +1,17 @@
+Category,Key,Value,Description
+Game Variables,inputDir.x,0,حركة الأفعى على المحور X
+Game Variables,inputDir.y,0,حركة الأفعى على المحور Y
+Game Variables,speed,5,سرعة الأفعى الأساسية
+Game Variables,snakeArr.x,13,موضع بداية الأفعى (X)
+Game Variables,snakeArr.y,15,موضع بداية الأفعى (Y)
+Game Variables,food.x,6,موضع الطعام الأولي (X)
+Game Variables,food.y,7,موضع الطعام الأولي (Y)
+Game Variables,score,0,النقاط الأولية
+Audio Files,foodSound,food.mp3,صوت عند أكل الطعام
+Audio Files,gameOverSound,gameover.mp3,صوت عند نهاية اللعبة
+Audio Files,moveSound,move.mp3,صوت عند الحركة
+Audio Files,musicSound,music.mp3,صوت الموسيقى الخلفية
+Controls,ArrowUp,0,-1,الاتجاه لأعلى
+Controls,ArrowDown,0,1,الاتجاه لأسفل
+Controls,ArrowLeft,-1,0,الاتجاه لليسار
+Controls,ArrowRight,1,0,الاتجاه لليمين
